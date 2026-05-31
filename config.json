@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildetch",
+        "uuid": 22414860,
+        "checksum": "4ovl4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
